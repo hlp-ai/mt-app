@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name" translatable="false">YiMT</string>
+    <string name="history">历史</string>
+    <string name="keyboard">键盘输入</string>
+    <string name="speech">语音输入</string>
+    <string name="image">图片输入</string>
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+    <string name="server">服务器：</string>
+    <string name="isSave">自动保存翻译记录</string>
+    <string name="copyright">版权说明</string>
+    <string name="usage">使用须知</string>
+    <string name="contact">联系我们</string>
+    <string name="save">保存</string>
+    <string name="translate">翻译</string>
+    <string name="autoSave">自动保存翻译历史</string>
+    <string name="cleanHistory">清除翻译历史</string>
+    <string name="language">语言</string>
+    <string name="latest_languages">最近</string>
+    <string name="all_language">全部</string>
 </resources>
